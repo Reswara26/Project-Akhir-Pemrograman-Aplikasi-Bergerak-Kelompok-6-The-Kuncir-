@@ -63,7 +63,8 @@ Untuk meningkatkan fungsionalitas aplikasi, kami menggunakan beberapa library pi
 
 | Landing Page | Login Kasir | Input Pesanan | Laporan Owner |
 | :---: | :---: | :---: | :---: |
-| ![Landing](https://raw.githubusercontent.com/EazysPeazys/Mini-Project-2-PAB_Nabil-Daffa-Athalasyah/main/Landing%20Page.png) | ![Login](https://raw.githubusercontent.com/EazysPeazys/Mini-Project-2-PAB_Nabil-Daffa-Athalasyah/main/Login%20Page.png) | ![Order](https://raw.githubusercontent.com/EazysPeazys/Mini-Project-2-PAB_Nabil-Daffa-Athalasyah/main/Tambah%20Aset.png) | ![Report](https://raw.githubusercontent.com/EazysPeazys/Mini-Project-2-PAB_Nabil-Daffa-Athalasyah/main/Update%20Profile%20Page.png)
+| ![Landing](<img width="608" height="868" alt="Screenshot 2026-04-20 210821" src="https://github.com/user-attachments/assets/37c47df7-074d-408c-a91f-f8666750fff1" />
+) | ![Login](https://raw.githubusercontent.com/EazysPeazys/Mini-Project-2-PAB_Nabil-Daffa-Athalasyah/main/Login%20Page.png) | ![Order](https://raw.githubusercontent.com/EazysPeazys/Mini-Project-2-PAB_Nabil-Daffa-Athalasyah/main/Tambah%20Aset.png) | ![Report](https://raw.githubusercontent.com/EazysPeazys/Mini-Project-2-PAB_Nabil-Daffa-Athalasyah/main/Update%20Profile%20Page.png)
 
 ---
 
